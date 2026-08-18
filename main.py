@@ -1,1 +1,1 @@
-print("こんにちは")
+print("shizukaze.com")
